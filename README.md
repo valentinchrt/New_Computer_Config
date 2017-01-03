@@ -4,7 +4,7 @@ List of things to do with a new computer
 #### Get LastPass + appstore passwords
 
 #### Things to install:
-- ([f.lux](https://justgetflux.com/))
+- [f.lux](https://justgetflux.com/)
 - [BetterTouchTool](https://www.boastr.net/releases/BetterTouchTool.zip)
 - [Tower](https://www.git-tower.com/mac/)
 - [Transmit](https://panic.com/transmit/)
