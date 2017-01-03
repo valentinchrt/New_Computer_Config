@@ -1,7 +1,7 @@
 # New_Computer_Config
 List of things to do with a new computer
 
-#### Get LastPass + appstore passwords
+#### Get LastPass + AppStore passwords
 
 #### Things to install:
 - [f.lux](https://justgetflux.com/)
