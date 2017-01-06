@@ -10,10 +10,12 @@ List of things to do with a new computer
 - [Transmit](https://panic.com/transmit/)
 - [Iterm2](https://iterm2.com/downloads/stable/iTerm2-3_0_13.zip)
 - [Homebrew](http://brew.sh/) and then :
-	-	`brew install git`
-	-	`brew install node`
+	- `brew install git`
+	- `brew install node`
 	- `brew tap caskroom/cask`
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
+- [Gulp](http://gulpjs.com/)
+	- `npm install --global gulp-cli`
 - [Google Chrome](https://www.google.fr/chrome/browser/desktop/)
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
 - [Firefox](https://www.mozilla.org/firefox/new/?scene=2)
