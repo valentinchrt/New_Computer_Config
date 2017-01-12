@@ -1,33 +1,28 @@
 # New_Computer_Config
 List of things to do with a new computer
 
-#### Get LastPass + AppStore passwords
+#### Get LastPass + AppStore passwords + (BetterTouchTool license + Tower license)
 
 #### Things to install:
-- [f.lux](https://justgetflux.com/)
-- [BetterTouchTool](https://www.boastr.net/releases/BetterTouchTool.zip)
-- [Tower](https://www.git-tower.com/mac/)
-- [Transmit](https://panic.com/transmit/)
-- [Iterm2](https://iterm2.com/downloads/stable/iTerm2-3_0_13.zip)
 - [Homebrew](http://brew.sh/) and then :
 	- `brew install git`
 	- `brew install node`
+	- `brew install mas`
 	- `brew tap caskroom/cask`
+- Install QuickLook Plugins
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
-- [Gulp](http://gulpjs.com/)
-	- `npm install --global gulp-cli`
-- [Google Chrome](https://www.google.fr/chrome/browser/desktop/)
+- Install main softs
+	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text iterm2 flux bettertouchtool tower transmit zeplin`
+- Log In Mac App Store
+	- `mas signin mas@example.com "password"`
+- Install Mac App Store Softs (Sip, MPlayerX, Pages, iA Writer, The Unarchiver)
+	- `mas install 507257563 421131143 409201541 775737590 425424353`
+- Update Potential outdated App Store apps such as Xcode
+	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
-- [Firefox](https://www.mozilla.org/firefox/new/?scene=2)
-- [Slack](https://slack.com/downloads)
-- [Skype](https://www.skype.com/fr/download-skype/skype-for-mac/downloading/)
-- [MAMP PRO](http://downloads7.mamp.info/MAMP-PRO/releases/4.0.6/MAMP_MAMP_PRO_4.0.6.pkg)
-- [Sketch](https://www.sketchapp.com/)
-- [Zeplin](www.zeplin.io)
-- [Sublime Text](https://download.sublimetext.com/Sublime%20Text%20Build%203126.dmg)
 
 #### Update app autolaunch during system startup
-- Launch BetterTouchTool
+- add BetterTouchTool at startup
 
 #### Install via appStore
 - iAWriter
