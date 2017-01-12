@@ -26,6 +26,8 @@ List of things to do with a new computer
 - [Zeplin](www.zeplin.io)
 - [Sublime Text](https://download.sublimetext.com/Sublime%20Text%20Build%203126.dmg)
 
+#### Update app autolaunch during system startup
+- Launch BetterTouchTool
 
 #### Install via appStore
 - iAWriter
