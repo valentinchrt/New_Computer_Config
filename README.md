@@ -9,6 +9,7 @@ List of things to do with a new computer
 - Install tools
 	- `brew install git`
 	- `brew install node`
+	- `brew install youtube-dl`
 	- `brew install mas`
 	- `brew tap caskroom/cask`
 - Install QuickLook Plugins
