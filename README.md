@@ -26,10 +26,6 @@ List of things to do with a new computer
 #### Update app autolaunch during system startup
 - add BetterTouchTool at startup
 
-#### Install via appStore
-- iAWriter
-- Sip
-
 #### Install Sublime Text config
 1) Install Package Manager and Open iTerm  
 2) `cd /Users/louischenais/Library/Application\ Support/Sublime\ Text\ 3`  
