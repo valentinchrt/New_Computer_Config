@@ -4,7 +4,9 @@ List of things to do with a new computer
 #### Get LastPass + AppStore passwords + (BetterTouchTool license + Tower license)
 
 #### Things to install:
-- [Homebrew](http://brew.sh/) and then :
+- Install [Homebrew](http://brew.sh/)
+	- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- Install tools
 	- `brew install git`
 	- `brew install node`
 	- `brew install mas`
