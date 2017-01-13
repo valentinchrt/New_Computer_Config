@@ -15,7 +15,7 @@ List of things to do with a new computer
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
 - Install main softs
-	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron`
+	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron webtorrent`
 - Log In Mac App Store
 	- `mas signin mas@example.com "password"`
 - Install Mac App Store Softs (Sip, MPlayerX, Pages, iA Writer, The Unarchiver)
