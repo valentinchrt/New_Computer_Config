@@ -24,6 +24,7 @@ List of things to do with a new computer
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
 - [Media Human Audio Converter](http://www.mediahuman.com/download/MHAudioConverter.dmg)
+- [FontPrep](https://github.com/briangonzalez/fontprep/releases/download/v3.1.1/FontPrep_3.1.1.zip)
 
 #### Update app autolaunch during system startup
 - add BetterTouchTool at startup
