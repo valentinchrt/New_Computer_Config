@@ -15,7 +15,7 @@ List of things to do with a new computer
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
 - Install main softs
-	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron webtorrent`
+	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop`
 - Log In Mac App Store
 	- `mas signin mas@example.com "password"`
 - Install Mac App Store Softs (Sip, MPlayerX, Pages, iA Writer, The Unarchiver)
@@ -24,7 +24,6 @@ List of things to do with a new computer
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
 - [Media Human Audio Converter](http://www.mediahuman.com/download/MHAudioConverter.dmg)
-- [FontPrep](https://github.com/briangonzalez/fontprep/releases/download/v3.1.1/FontPrep_3.1.1.zip)
 
 #### Update app autolaunch during system startup
 - add BetterTouchTool at startup
