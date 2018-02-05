@@ -9,13 +9,14 @@ List of things to do with a new computer
 - Install tools
 	- `brew install git`
 	- `brew install node`
+	- [Yarn](https://yarnpkg.com/en/) `brew install yarn`
 	- [youtube-dl](https://rg3.github.io/youtube-dl/) `brew install youtube-dl`
 	- [Mac App Store command line interface](https://github.com/mas-cli/mas) `brew install mas`
 	- [Homebrew Cask](https://caskroom.github.io/) `brew tap caskroom/cask`
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
 - Install main softs
-	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop`
+	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop evernote`
 - Log In Mac App Store
 	- `mas signin mas@example.com "password"`
 - Install Mac App Store Softs (Sip, MPlayerX, Pages, iA Writer, The Unarchiver)
