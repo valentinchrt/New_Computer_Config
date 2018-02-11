@@ -39,3 +39,8 @@ List of things to do with a new computer
 7) Paste [these settings](https://gist.github.com/ChucKN0risK/1271219c30777d6f31d1)  
 8) Create a `.bash_profile` in Username folder containing this [gist](https://gist.github.com/ChucKN0risK/f3052d944b074ff157b912fd197045c1)  
 9) New sublime snippet from this [gist](https://gist.github.com/ChucKN0risK/777f52bc96b90087ab5998235be4d22c)
+
+#### Updates iTunes Preferences
+1) Update musuic location folder
+2) Disable "Keep iTunes folder media organized"
+3) Disable "Copy files to iTunes media folder"
