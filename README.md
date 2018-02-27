@@ -15,7 +15,7 @@ List of things to do with a new computer
 	- [Homebrew Cask](https://caskroom.github.io/) `brew tap caskroom/cask`
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
-- Install main softs
+- [Install main softs](https://caskroom.github.io/search)
 	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop evernote`
 - Log In Mac App Store
 	- `mas signin mas@example.com "password"`
