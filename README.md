@@ -27,6 +27,10 @@ List of things to do with a new computer
 - [Media Human Audio Converter](http://www.mediahuman.com/download/MHAudioConverter.dmg)
 
 #### Update app autolaunch during system startup
+- As explained [here](https://stackoverflow.com/a/29971430/3906770):
+After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
+
+#### Set VisualStudio Code $PATH
 - add BetterTouchTool at startup
 
 #### Install Sublime Text config
