@@ -16,7 +16,7 @@ List of things to do with a new computer
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman tagger soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop evernote sequel-pro postman`
+	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop evernote sequel-pro postman`
 - Log In Mac App Store
 	- `mas signin mas@example.com "password"`
 - Install Mac App Store Softs (Sip, MPlayerX, Pages, iA Writer, The Unarchiver, Paste 2)
@@ -25,6 +25,7 @@ List of things to do with a new computer
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
 - [Media Human Audio Converter](http://www.mediahuman.com/download/MHAudioConverter.dmg)
+- [Meta](https://www.nightbirdsevolve.com/meta/updates/latest/)
 
 #### Update app autolaunch during system startup
 - As explained [here](https://stackoverflow.com/a/29971430/3906770):
