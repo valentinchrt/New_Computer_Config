@@ -20,8 +20,8 @@ List of things to do with a new computer
 	- `brew cask install google-chrome slack firefox skype mamp sketch sublime-text visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop evernote sequel-pro postman figma docker`
 - Log In Mac App Store
 	- `mas signin mas@example.com "password"`
-- Install Mac App Store Softs (Sip, MPlayerX, Pages, iA Writer, The Unarchiver, Paste 2)
-	- `mas install 507257563 421131143 409201541 775737590 425424353 967805235`
+- Install Mac App Store Softs (Sip, Pages, iA Writer, The Unarchiver, Paste 2)
+	- `mas install 507257563 409201541 775737590 425424353 967805235`
 - Update Potential outdated App Store apps such as Xcode
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
