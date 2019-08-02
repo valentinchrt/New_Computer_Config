@@ -27,7 +27,7 @@ List of things to do with a new computer
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
 - [Media Human Audio Converter](http://www.mediahuman.com/download/MHAudioConverter.dmg)
 - [Meta](https://www.nightbirdsevolve.com/meta/updates/latest/)
-- [Docker](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+- [Loom](https://www.loom.com/desktop)
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
