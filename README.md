@@ -28,6 +28,7 @@ List of things to do with a new computer
 - [Media Human Audio Converter](http://www.mediahuman.com/download/MHAudioConverter.dmg)
 - [Meta](https://www.nightbirdsevolve.com/meta/updates/latest/)
 - [Loom](https://www.loom.com/desktop)
+- [EasySubs](https://tucci.me/projects/easysubs/)
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
