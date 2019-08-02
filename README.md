@@ -29,7 +29,7 @@ List of things to do with a new computer
 - [Meta](https://www.nightbirdsevolve.com/meta/updates/latest/)
 - [Loom](https://www.loom.com/desktop)
 - [EasySubs](https://tucci.me/projects/easysubs/)
-- Tempo [Tempo](https://www.yourtempo.co/)
+- [Tempo](https://www.yourtempo.co/)
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
