@@ -9,6 +9,7 @@ List of things to do with a new computer
 - Install tools
 	- `brew install git`
 	- `brew install node`
+	- `brew install zsh`
 	- [htop](https://hisham.hm/htop/) `brew install htop`
 	- [Yarn](https://yarnpkg.com/en/) `brew install yarn`
 	- [youtube-dl](https://rg3.github.io/youtube-dl/) `brew install youtube-dl`
