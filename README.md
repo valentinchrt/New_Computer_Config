@@ -20,7 +20,7 @@ List of things to do with a new computer
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql qlimagesize webpquicklook qlvideo`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew cask install google-chrome cakebrew slack firefox skype mamp sketch sublime-text visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman soulseek appcleaner android-file-transfer vlc srware-iron webtorrent fontplop evernote sequel-pro postman figma docker airtable notion datagrip`
+	- `brew cask install google-chrome cakebrew slack firefox skype mamp sketch sublime-text visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc srware-iron webtorrent fontplop evernote sequel-pro postman figma docker airtable notion datagrip`
 - Log In Mac App Store
 	- `mas signin mas@example.com "password"`
 - Install Mac App Store Softs (Sip, Pages, iA Writer, The Unarchiver, Paste 2)
@@ -28,7 +28,6 @@ List of things to do with a new computer
 - Update Potential outdated App Store apps such as Xcode
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
-- [Media Human Audio Converter](http://www.mediahuman.com/download/MHAudioConverter.dmg)
 - [Meta](https://www.nightbirdsevolve.com/meta/updates/latest/)
 - [Loom](https://www.loom.com/desktop)
 - [EasySubs](https://tucci.me/projects/easysubs/)
