@@ -37,11 +37,11 @@ List of things to do with a new computer
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
 #### Update app autolaunch during system startup
-- As explained [here](https://stackoverflow.com/a/29971430/3906770):
-After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
+- add BetterTouchTool at startup
 
 #### Set VisualStudio Code $PATH
-- add BetterTouchTool at startup
+- As explained [here](https://stackoverflow.com/a/29971430/3906770):
+After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
 
 #### Install Sublime Text config
 1) Install Package Manager and Open iTerm  
