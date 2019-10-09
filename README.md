@@ -6,6 +6,8 @@ List of things to do with a new computer
 #### Things to install:
 - Install [Homebrew](http://brew.sh/)
 	- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- Install Oh My Zsh
+	_ `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 - Install tools
 	- `brew install git`
 	- `brew install node`
