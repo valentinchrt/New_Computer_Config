@@ -37,11 +37,10 @@ List of things to do with a new computer
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
-#### Update app autolaunch during system startup
-- add BetterTouchTool, Flux, Mega at startup
-
-#### Set VisualStudio Code $PATH
-- As explained [here](https://stackoverflow.com/a/29971430/3906770):
+#### Todo
+- Enable UPnP mapping in Soulseek
+- Add BetterTouchTool, Flux, Mega at startup
+- Set VisualStudio Code $PATH as explained [here](https://stackoverflow.com/a/29971430/3906770):
 After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
 
 #### Install Sublime Text config
