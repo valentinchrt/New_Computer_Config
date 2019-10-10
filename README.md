@@ -11,7 +11,7 @@ List of things to do with a new computer
 - Install tools
 	- `brew install git`
 	- `brew install node`
-	- `brew install zsh`
+	- `brew install nvm`
 	- [htop](https://hisham.hm/htop/) `brew install htop`
 	- [Yarn](https://yarnpkg.com/en/) `brew install yarn`
 	- [youtube-dl](https://rg3.github.io/youtube-dl/) `brew install youtube-dl`
@@ -42,6 +42,7 @@ List of things to do with a new computer
 - Add BetterTouchTool, Flux, Mega at startup
 - Set VisualStudio Code $PATH as explained [here](https://stackoverflow.com/a/29971430/3906770):
 After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
+- Log in npm through the CLI : `npm login`
 
 #### Install Sublime Text config
 1) Install Package Manager and Open iTerm  
