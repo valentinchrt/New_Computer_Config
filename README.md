@@ -1,7 +1,7 @@
 # New_Computer_Config
 List of things to do with a new computer
 
-#### Get LastPass + AppStore passwords + (BetterTouchTool license + Tower license)
+#### Get LastPass + AppStore passwords + (BetterTouchTool license & backup + Tower license + Sketch license)
 
 #### Things to install:
 - Install [Homebrew](http://brew.sh/)
@@ -37,7 +37,7 @@ List of things to do with a new computer
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
 #### Update app autolaunch during system startup
-- add BetterTouchTool at startup
+- add BetterTouchTool, Flux, Mega at startup
 
 #### Set VisualStudio Code $PATH
 - As explained [here](https://stackoverflow.com/a/29971430/3906770):
