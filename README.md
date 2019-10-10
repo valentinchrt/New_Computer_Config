@@ -33,6 +33,7 @@ List of things to do with a new computer
 - [EasySubs](https://tucci.me/projects/easysubs/)
 - [Tempo](https://www.yourtempo.co/)
 - [svgo-gui](http://goo.gl/0Qu9B)
+- [Paste Helper](https://pasteapp.me/helper/)
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
