@@ -38,15 +38,16 @@ List of things to do with a new computer
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
 
 #### Todo
-- Enable UPnP mapping in Soulseek
 - Add BetterTouchTool, Flux, Mega at startup
 - Set VisualStudio Code $PATH as explained [here](https://stackoverflow.com/a/29971430/3906770):
 After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
 - Log in npm through the CLI : `npm login`
 - Do this to automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
+- Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)` 
 
 #### Soulseek Config
 - Import config
+- Enable UPnP mapping
 - Toggle "Don't create subfolders for single downloads"
 - Toggle "Don't create username folders"
 
