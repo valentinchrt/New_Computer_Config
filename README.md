@@ -45,6 +45,11 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 - Log in npm through the CLI : `npm login`
 - Do this to automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
 
+#### Soulseek Config
+- Import config
+- Toggle "Don't create subfolders for single downloads"
+- Toggle "Don't create username folders"
+
 #### Install Sublime Text config
 1) Install Package Manager and Open iTerm  
 2) `cd /Users/louischenais/Library/Application\ Support/Sublime\ Text\ 3`  
