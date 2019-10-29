@@ -10,9 +10,7 @@ List of things to do with a new computer
 	_ `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 - Install NVM : `curl -L https://github.com/creationix/nvm/raw/v0.33.11/install.sh | bash`
 - Install tools
-	- `brew install git node awscli [htop](https://hisham.hm/htop/) [Yarn](https://yarnpkg.com/en/) [youtube-dl](https://rg3.github.io/youtube-dl/)`
-	- `brew install node`
-	- `brew install awscli`
+	- `brew install git node awscli`
 	- [htop](https://hisham.hm/htop/) `brew install htop`
 	- [Yarn](https://yarnpkg.com/en/) `brew install yarn`
 	- [youtube-dl](https://rg3.github.io/youtube-dl/) `brew install youtube-dl`
