@@ -32,7 +32,7 @@ List of things to do with a new computer
 - [svgo-gui](http://goo.gl/0Qu9B)
 - [Paste Helper](https://pasteapp.me/helper/)
 
-📝 To update all outdated app installed via homebrew: `brew update && brew upgrade "brew outdated"`
+📝 To update all outdated app installed via homebrew: `brew update && brew upgrade
 
 #### Todo
 - Add BetterTouchTool, Flux, Mega at startup
