@@ -1,7 +1,7 @@
 # New_Computer_Config
 List of things to do with a new computer
 
-#### Get LastPass + AppStore passwords + (BetterTouchTool license & backup + Tower license + Sketch license)
+#### BetterTouchTool license & backup + Tower license + Sketch license
 
 #### Things to install:
 - Install [Homebrew](http://brew.sh/)
