@@ -18,12 +18,8 @@ List of things to do with a new computer
 	- `mas install 507257563 775737590 425424353 967805235`
 - Update Potential outdated App Store apps such as Xcode
 	- `mas upgrade`
-- [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
-- [Meta](https://www.nightbirdsevolve.com/meta/updates/latest/)
-- [Loom](https://www.loom.com/desktop)
-- [EasySubs](https://tucci.me/projects/easysubs/)
+
 - [Tempo](https://www.yourtempo.co/)
-- [svgo-gui](http://goo.gl/0Qu9B)
 - [Paste Helper](https://pasteapp.me/helper/)
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade`
