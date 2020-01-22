@@ -6,8 +6,6 @@ List of things to do with a new computer
 #### Things to install:
 - Install [Homebrew](http://brew.sh/)
 	- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-- Install tools
-	- [Homebrew Cask](https://caskroom.github.io/) `brew tap cask/cask`
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - [Install main softs](https://caskroom.github.io/search)
