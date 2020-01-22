@@ -11,7 +11,7 @@ List of things to do with a new computer
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew cask install google-chrome slack firefox skype sketch visual-studio-code iterm2 flux bettertouchtool zeplin appcleaner vlc figma airtable notion`
+	- `brew cask install alfred google-chrome slack firefox skype sketch visual-studio-code iterm2 flux bettertouchtool zeplin appcleaner vlc figma airtable notion`
 - Install Mac App Store Softs (Sip, iA Writer, The Unarchiver, Paste 2)
 	- `mas install 507257563 775737590 425424353 967805235`
 - Update Potential outdated App Store apps such as Xcode
