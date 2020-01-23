@@ -23,7 +23,7 @@ brew install mas
 Install Mac App Store softs via Homebrew (Dashlane, Slack, Paste)
 
 ```
-mas install
+mas install 552383089 803453959 967805235
 ```
 
 ### Main softs
