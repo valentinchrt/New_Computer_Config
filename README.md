@@ -1,7 +1,7 @@
 # New_Computer_Config
 List of things to do with a new computer
 
-## 1. Install environment
+## ⚙️ Install environment
 
 #### Homebrew
 [Homebrew](https://brew.sh) installs the stuff you need that Apple (or your Linux system) didn’t.
@@ -17,7 +17,7 @@ List of things to do with a new computer
 brew install mas
 ```
 
-## 2. Install softs
+## 📦 Install softs
 
 ### Mac App Store
 Install Mac App Store softs via Homebrew (Dashlane, Slack, Paste)
