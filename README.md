@@ -1,23 +1,23 @@
 # New_Computer_Config
 List of things to do with a new computer
 
-## Install environment
+## 1. Install environment
 
-#### 1. Homebrew
+#### Homebrew
 [Homebrew](https://brew.sh) installs the stuff you need that Apple (or your Linux system) didn’t.
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-#### 2. Mas-cli
+#### Mas-cli
 [mas-cli](https://github.com/mas-cli/mas) is a simple command line interface for the Mac App Store. Designed for scripting and automation.
 
 ```
 brew install mas
 ```
 
-## Install softs
+## 2. Install softs
 
 ### Mac App Store
 Install Mac App Store softs via Homebrew (Dashlane, Slack, Paste)
