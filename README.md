@@ -34,7 +34,7 @@ brew cask install alfred appcleaner google-chrome flux vlc webtorrent whatsapp d
 ```
 
 ### Work softs
-Install main softs via [cask](https://caskroom.github.io/search)
+Install work softs via [cask](https://caskroom.github.io/search)
 
 ```
 brew cask install slack skype sketch figma visual-studio-code iterm2 zeplin airtable notion loom abstract
