@@ -37,7 +37,7 @@ brew install cleanshot kap appcleaner google-chrome flux vlc webtorrent whatsapp
 Install work softs via [cask](https://caskroom.github.io/search)
 
 ```
-brew install slack zoom superhuman figma visual-studio-code iterm2 airtable notion loom pitch sketch zeplin abstract deepl --cask
+brew install zoom superhuman figma visual-studio-code iterm2 airtable notion loom pitch sketch zeplin abstract deepl --cask
 ```
 
 ### Install Aerial+Fliqlo Screensavers
