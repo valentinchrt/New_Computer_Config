@@ -30,14 +30,14 @@ mas install 552383089 803453959 967805235 1484348796 1254981365 1480068668 74764
 Install main softs via [cask](https://caskroom.github.io/search)
 
 ```
-brew install --cask cleanshot kap appcleaner google-chrome flux vlc webtorrent whatsapp dropbox spotify molotov discord
+brew install --cask raycast cleanshot kap appcleaner google-chrome flux vlc webtorrent whatsapp dropbox spotify molotov discord
 ```
 
 ### Work softs
 Install work softs via [cask](https://caskroom.github.io/search)
 
 ```
-brew install --cask raycast zoom superhuman linear-linear figma visual-studio-code iterm2 airtable notion loom pitch sketch zeplin abstract deepl
+brew install --cask zoom superhuman linear-linear figma visual-studio-code iterm2 airtable notion loom pitch sketch zeplin abstract deepl
 ```
 
 ### Install Aerial+Fliqlo Screensavers
